@@ -1,0 +1,7 @@
+node_modules/
+Main/auth/
+Main/profiling.json
+Main/foto/*
+!Main/foto/noFoto.jpg
+package.json
+package-lock.json
